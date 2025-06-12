@@ -67,4 +67,13 @@ Exibir ranking em uma tabela mais elegante
 
 Salvar os dados em .json para mais contr
 
-📷 [imagem opcional do jogo em execução]
+#TELA DE PARA INSERIR NOME
+📷 ![image](https://github.com/user-attachments/assets/3e6c6722-34da-4e48-b0c5-77d57b02333b)
+
+#INTERFACE
+📷![![image](https://github.com/user-attachments/assets/ec64f202-b279-4ba0-9b48-376ae42db019)]
+
+#FIM
+📷[![image](https://github.com/user-attachments/assets/254ee1a3-2e07-44ac-be79-d31e9b2a7e5f)
+]
+
