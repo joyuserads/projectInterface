@@ -68,7 +68,7 @@ Exibir ranking em uma tabela mais elegante
 Salvar os dados em .json para mais contr
 
 #TELA DE PARA INSERIR NOME
-📷 ![TELA DE PARA INSERIR NOME](teste.png)
+📷 ![TELA DE PARA INSERIR NOME](tela/teste.png)
 
 #INTERFACE
 📷![Interface](game/interface.png)
