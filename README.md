@@ -71,8 +71,8 @@ Salvar os dados em .json para mais contr
 📷 ![TELA DE PARA INSERIR NOME](teste.png)
 
 #INTERFACE
-📷![Interface](interface.png)
+📷![Interface](game/interface.png)
 
-📷![Fim](fim.png)
+📷![Fim](/gamefim.png)
 
 
